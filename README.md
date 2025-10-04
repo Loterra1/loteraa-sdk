@@ -5,7 +5,7 @@ A comprehensive Web3 wallet interface built with Next.js, React, and ethers.js. 
 
 ## 🚀 Live Demo
 
-**[https://v0-wallet-ui-design-rho.vercel.app/](https://v0-wallet-ui-design-rho.vercel.app/)**
+
 
 ## ✨ Features
 
